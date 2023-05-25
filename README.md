@@ -16,9 +16,3 @@
   <img align="center" alt="Nicolas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Nicolas-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
-  
-  <div align="center">
-  
- ![Snake animation](https://github.com/NicolasDobbeck/NicolasDobbeck/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
