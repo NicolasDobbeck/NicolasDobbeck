@@ -1,4 +1,4 @@
-### Olá👋 Meu nome Nicolas Dobbeck
+### Olá👋 Meu nome é Nicolas Dobbeck
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
