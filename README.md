@@ -2,7 +2,7 @@
 
 - 🎓 Se formando em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela FIAP
 - 📍 Cursei Análise e desenvolvimento de Sistemas no SENAI
-- 📚 Aprendendo Visão Computacional
+- 📚 Aprendendo: Visão Computacional e Next.js
 
 ##
 
